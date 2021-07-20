@@ -2,9 +2,12 @@
 layout: home
 header:
   title: SYNCROWEB SRL
-  text: >
-    Start Bootstrap can help you build better websites using the Bootstrap
-    framework! Just download a theme and start customizing, no strings attached!
+  text: >-
+    Nata nel 2010 con l’idea di creare un’azienda che unisca efficienza ed
+    utilizzo di tecnologie all’avanguardia al fine soddisfare l’esigenze dei
+    clienti. Grazie a questi principi in questi anni Syncroweb ha avuto una
+    crescita costante sotto molti aspetti come il numero di persone assunte, il
+    numero di clienti e la grandezza dei progetti interni.
   action:
     label: Find Out More
     url: '#about'
