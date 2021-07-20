@@ -1,7 +1,7 @@
 ---
 layout: home
 header:
-  title: SYNCROWEB
+  title: SYNCROWEB SRL
   text: >
     Start Bootstrap can help you build better websites using the Bootstrap
     framework! Just download a theme and start customizing, no strings attached!
