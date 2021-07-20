@@ -3,7 +3,7 @@ layout: home
 header:
   title: SYNCROWEB SRL
   text: >-
-    Nata nel 2010 con l’idea di creare un’azienda che unisca efficienza ed
+    Nata nel 2006 con l’idea di creare un’azienda che unisca efficienza ed
     utilizzo di tecnologie all’avanguardia al fine soddisfare l’esigenze dei
     clienti. Grazie a questi principi in questi anni Syncroweb ha avuto una
     crescita costante sotto molti aspetti come il numero di persone assunte, il
